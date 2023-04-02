@@ -1,10 +1,10 @@
 ---
-title: Introduction to Java
+title: Introductory lectures
 ---
 
 Sep 28
 : [Java & Git](#)
-  : [1.1](#)
+  : **Section**{: .label .label-purple }
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
