@@ -7,3 +7,5 @@ photo: vitercik_square.jpg
 ---
 
 Assistant Professor
+
+Office Hours: Tuesday 11am-12pm, Huang 250
