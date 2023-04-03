@@ -8,13 +8,14 @@ seo:
   name: MS&E/CS 331
 ---
 
-# Machine Learning for Algorithm Design
-## (MS&E/CS 331, Spring 2023)
+# Machine Learning for Algorithm Design (MS&E/CS 331, Spring 2023)
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+## Course information
+
+- **Lecture time:** Tuesday and Thursdays 3:00-4:20pm
+- **Lecture location:** McCullough 122
+- **Instructor:** [Ellen Vitercik](vitercik.github.io)
+- **Instructor office hours:** Tuesday 11am-12pm, Huang 250
 
 ## Description
 
