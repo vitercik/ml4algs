@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Machine Learning for Algorithm Design (Spring 2023)
+title: Machine Learning for Algorithm Design (MS&E/CS 331)
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,7 +8,7 @@ seo:
   name: MS&E/CS 331
 ---
 
-# Machine Learning for Algorithm Design (MS&E/CS 331, Spring 2023)
+# Machine Learning for Algorithm Design (Spring 2023)
 
 ## Course information
 
