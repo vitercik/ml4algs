@@ -5,7 +5,12 @@ description: >-
     Discussion class descriptions
 ---
 
-There will be ten **discussion classes** which will center around important papers in the field. These classes will begin with a presentation by the instructor about the paper and will be followed by a discussion. The discussions will be organized around different “roles” that students will play. (This format is based on a course design by [Alec Jacobson and Colin Raffel](https://colinraffel.com/blog/role-playing-seminar.html).) Each student will take on one of the following **presenter roles** for five of the ten discussion classes. For the remaining five discussion classes, the student will come to class having completed the **non-presenting assignment**.
+# Discussion class format
+
+- here will be ten **discussion classes** which will center around important papers in the field. These classes will begin with a presentation by the instructor about the paper and will be followed by a discussion.
+- The discussions will be organized around different “roles” that students will play. (This format is based on a course design by [Alec Jacobson and Colin Raffel](https://colinraffel.com/blog/role-playing-seminar.html).)
+- Each student will take on one of the following **presenter roles** for five of the ten discussion classes and give an approximately 7-minute presentation followed by 3 minutes of questions and discussion.
+- For the remaining five discussion classes, the student will come to class having completed the **non-presenting assignment**.
 
 ### Presenter roles:
 - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one older paper cited by the current paper and one newer paper citing this current paper.
