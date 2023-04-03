@@ -14,7 +14,7 @@ seo:
 
 - **Lecture time:** Tuesday and Thursdays 3:00-4:20pm
 - **Lecture location:** McCullough 122
-- **Instructor:** [Ellen Vitercik](vitercik.github.io)
+- **Instructor:** [Ellen Vitercik](https://vitercik.github.io)
 - **Instructor office hours:** Tuesday 11am-12pm, Huang 250
 
 ## Description
