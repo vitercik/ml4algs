@@ -1,12 +1,10 @@
 ---
-title: Statistical guarantees and online learning
+title: Midterm presentations
 ---
 
-May 18
-: Theoretical machine learning
-  : **Lecture**{: .label .label-purple }
+May 11
+: Midterm project presentations
+  : **Project**{: .label .label-blue }
 
-May 23
-: Statistical guarantees and online algorithm configuration
-  : **Discussion**{: .label .label-red }
-: Gupta, Rishi, and Tim Roughgarden. "A PAC approach to application-specific algorithm selection." ITCS'16. [[link]](https://arxiv.org/pdf/1511.07147.pdf)
+May 16
+: No class
