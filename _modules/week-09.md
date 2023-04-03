@@ -1,8 +1,11 @@
 ---
-title: Learned data structures
+title: Final project presentations
 ---
 
-June 1
-: Learned data structures
-  : **Discussion**{: .label .label-red }
-: Kraska, Tim, et al. "The case for learned index structures." SIGMOD'18. [[link]](https://arxiv.org/pdf/1712.01208.pdf)
+June 6
+: Final project presentations
+  : **Project**{: .label .label-blue }
+
+June 8
+: Final project presentations
+  : **Project**{: .label .label-blue }
