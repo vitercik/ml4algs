@@ -1,23 +1,15 @@
 ---
-title: Basic Data Structures
+title: Graph neural networks
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Apr 13
+: Graph neural networks
+  : **Lecture**{: .label .label-purple }
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Apr 6
+: Machine learning crash-course
+  : **Lecture**{: .label .label-purple }
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Apr 11
+: Integer programming and SAT
+  : **Lecture**{: .label .label-purple }
