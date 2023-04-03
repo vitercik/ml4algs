@@ -16,7 +16,8 @@ seo:
 - **Lecture time:** Tuesday and Thursdays 3:00-4:20pm
 - **Lecture location:** McCullough 122
 - **Instructor:** [Ellen Vitercik](https://vitercik.github.io)
-- **Instructor office hours:** Tuesday 11am-12pm, Huang 250
+- **Instructor office hours:** Tuesday 11am-12pm, Huang 250. Also by appointment---please feel free to reach out!
+- **Prerequisites:** Introductory course in algorithms (e.g., CS 161). Introductory course in machine learning is helpful but not required.
 
 ## Description
 
