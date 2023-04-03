@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Project
 description: >-
     Course policies and information.
 ---
