@@ -1,5 +1,5 @@
 ---
-title: Introductory lectures
+title: 
 ---
 
 Apr 4
