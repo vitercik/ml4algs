@@ -30,6 +30,6 @@ Machine learning has become a powerful tool for algorithm design. This is becaus
 
 ## Grading
 
-Grading will be out of 100 points, distributed as follows:
-- Discussions: 60 points
-- [Project](https://vitercik.github.io/ml4algs/project/#grading): 40 points
+Grading will be out of 100 points. The grading breakdowns are listed on the following pages:
+- **[Discussions](https://vitercik.github.io/ml4algs/discussions/#grading):** 60 points
+- **[Project](https://vitercik.github.io/ml4algs/project/#grading):** 40 points
