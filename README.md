@@ -10,7 +10,7 @@ seo:
 
 # Machine Learning for Algorithm Design (MS&E/CS 331, Spring 2023)
 
-##Description
+## Description
 
 Machine learning has become a powerful tool for algorithm design. This is because in practice, we often have ample data about the application domain in which the algorithm will be used---data that can be used to optimize the algorithm's performance. This course covers how machine learning can be used within the algorithm design pipeline from a variety of perspectives, including how to design novel algorithms with machine-learned modules and how to configure existing algorithms' parameters to optimize performance. Topics will include both applied machinery as well as theoretical tools for providing provable guarantees. The format will include equal-parts lecture and discussion.
 
