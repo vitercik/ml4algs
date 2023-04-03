@@ -27,3 +27,9 @@ Machine learning has become a powerful tool for algorithm design. This is becaus
 - **[Lectures](calendar.md):** The course will include six lectures which cover key technical tools used to develop and analyze machine learning approaches to algorithm design. These include introductions to the supervised learning model, integer programming and SAT solvers, graph neural networks, Markov decision processes, reinforcement learning, and theoretical machine learning.
 - **[Discussions](discussions.md):** There will be ten classes where we discuss key papers from the literature on machine learning for algorithm design.
 - **[Project](project.md):** Students will complete a course project, in a group or individually.
+
+## Grading
+
+Grading will be out of 100 points, distributed as follows:
+- Discussions: 60 points
+- [Project](https://vitercik.github.io/ml4algs/project/#grading): 40 points
