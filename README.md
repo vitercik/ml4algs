@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Machine Learning for Algorithm Design (MS&E/CS 331, Spring 2023)
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: MS&E/CS 331
 ---
 
 # Just the Class
