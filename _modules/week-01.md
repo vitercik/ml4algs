@@ -2,22 +2,14 @@
 title: Introductory lectures
 ---
 
-Sep 28
-: [Java & Git](#)
-  : **Section**{: .label .label-purple }
+Apr 4
+: Introduction to class
+  : **Lecture**{: .label .label-purple }
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Apr 6
+: Machine learning crash-course
+  : **Lecture**{: .label .label-purple }
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Apr 6
+: Integer programming and SAT
+  : **Lecture**{: .label .label-purple }
