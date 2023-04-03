@@ -3,7 +3,7 @@ title: Introductory lectures
 ---
 
 Apr 4
-: Introduction to class
+: [Introduction to class](https://vitercik.github.io/ml4algs/assets/slides/lecture1.pdf)
   : **Lecture**{: .label .label-purple }
 
 Apr 6
