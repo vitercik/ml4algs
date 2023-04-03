@@ -8,7 +8,8 @@ seo:
   name: MS&E/CS 331
 ---
 
-# Machine Learning for Algorithm Design (MS&E/CS 331, Spring 2023)
+# Machine Learning for Algorithm Design
+## (MS&E/CS 331, Spring 2023)
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
