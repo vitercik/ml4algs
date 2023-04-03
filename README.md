@@ -8,10 +8,11 @@ seo:
   name: MS&E/CS 331
 ---
 
-# Machine Learning for Algorithm Design (Spring 2023)
+# Machine Learning for Algorithm Design
 
 ## Course information
 
+- **Quarter:** Spring 2023
 - **Lecture time:** Tuesday and Thursdays 3:00-4:20pm
 - **Lecture location:** McCullough 122
 - **Instructor:** [Ellen Vitercik](https://vitercik.github.io)
