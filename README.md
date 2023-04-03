@@ -10,18 +10,9 @@ seo:
 
 # Machine Learning for Algorithm Design (MS&E/CS 331, Spring 2023)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+##Description
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
-
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
-
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+Machine learning has become a powerful tool for algorithm design. This is because in practice, we often have ample data about the application domain in which the algorithm will be used---data that can be used to optimize the algorithm's performance. This course covers how machine learning can be used within the algorithm design pipeline from a variety of perspectives, including how to design novel algorithms with machine-learned modules and how to configure existing algorithms' parameters to optimize performance. Topics will include both applied machinery as well as theoretical tools for providing provable guarantees. The format will include equal-parts lecture and discussion.
 
 ## Getting Started
 
