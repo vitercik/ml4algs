@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Ellen Vitercik:
-    - 'vitercik.github.io'
+    - 'https://vitercik.github.io'
   Ed Discussion:
     - 'https://edstem.org/us/courses/38630/discussion/'
 footer_content:
