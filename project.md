@@ -24,8 +24,8 @@ All students in the class will write a "mini-paper" as a final project, which ca
 - **June 12**: Each group will submit their final report.
 
 ## Grading
-- **Progress report**: 7 points
-- **Midterm presentation**: 8 points
-- **Novelty**: 5 points; your project should propose something new (either a new application, method, or perspective)
+- **Progress report**: 7 points.
+- **Midterm presentation**: 8 points.
+- **Novelty**: 5 points; your project should propose something new (either a new application, method, or perspective).
 - **Writing**: 10 points; your final paper should be readable and complete and situate itself appropriately among related work.
 - **Final presentation**: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
