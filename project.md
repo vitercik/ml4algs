@@ -20,7 +20,7 @@ All students in the class will write a "mini-paper" as a final project, which ca
 - **April 17-21**: All groups will meet with the instructor to discuss project ideas. Please come prepared with ideas/interests! Look out for an email about scheduling this meeting.
 - **May 5**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress.
 - **May 11**: Each group will give a short presentation in class about a paper related to their project.
-- **June 6-8**: Students will present their final project during class.
+- **June 8**: Students will present their final project during class.
 - **June 12**: Each group will submit their final report.
 
 ## Grading
