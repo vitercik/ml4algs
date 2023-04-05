@@ -7,7 +7,7 @@ Apr 4
   : **Lecture**{: .label .label-purple }
 
 Apr 6
-: Machine learning crash-course
+: [Machine learning crash-course](https://vitercik.github.io/ml4algs/assets/slides/lecture2.pdf)
   : **Lecture**{: .label .label-purple }
 
 Apr 11
