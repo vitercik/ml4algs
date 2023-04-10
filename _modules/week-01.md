@@ -11,5 +11,5 @@ Apr 6
   : **Lecture**{: .label .label-purple }
 
 Apr 11
-: Integer programming and SAT
+: [Integer programming and SAT](https://vitercik.github.io/ml4algs/assets/slides/lecture3.pdf)
   : **Lecture**{: .label .label-purple }
