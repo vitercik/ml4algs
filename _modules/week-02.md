@@ -3,7 +3,7 @@ title: Graph neural networks
 ---
 
 Apr 13
-: Graph neural networks (GNNs)
+: [Graph neural networks (GNNs)](https://vitercik.github.io/ml4algs/assets/slides/lecture3.pdf)
   : **Lecture**{: .label .label-purple }
 
 Apr 18
