@@ -7,7 +7,7 @@ Apr 13
   : **Lecture**{: .label .label-purple }
 
 Apr 18
-: GNNs for graph algorithms
+: [GNNs for graph algorithms](https://vitercik.github.io/ml4algs/assets/slides/lecture5.pdf)
   : **Discussion**{: .label .label-red }
 : Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
 
