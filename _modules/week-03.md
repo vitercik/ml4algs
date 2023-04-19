@@ -3,7 +3,7 @@ title: Integer programming (IP) and SAT
 ---
 
 Apr 25
-: Algorithm configuration for IP and SAT
+: [Algorithm configuration for IP and SAT](https://vitercik.github.io/ml4algs/assets/slides/lecture7.pdf)
   : **Discussion**{: .label .label-red }
 : Sections 1-3.2, 4.1, 5.1.1, 5.1.3, 5.2-6.2 of Hutter, Frank, et al. "ParamILS: an automatic algorithm configuration framework." JAIR 36 (2009): 267-306. [[link]](https://www.jair.org/index.php/jair/article/download/10628/25415/)
 
