@@ -10,4 +10,4 @@ Apr 25
 Apr 27
 : Portfolio-based algorithm selection for SAT
   : **Discussion**{: .label .label-red }
-: Xu, Lin, et al. "SATzilla: portfolio-based algorithm selection for SAT." JAIR 32 (2008): 565-606. [[link]](https://www.jair.org/index.php/jair/article/download/10556/25269)
+: Sections 1-3.3, 4.1, 4.3 of Xu, Lin, et al. "SATzilla: portfolio-based algorithm selection for SAT." JAIR 32 (2008): 565-606. [[link]](https://www.jair.org/index.php/jair/article/download/10556/25269)
