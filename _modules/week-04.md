@@ -3,7 +3,7 @@ title: Markov decision processes (MDPs) and reinforcement learning (RL)
 ---
 
 May 2
-: MDPs and RL
+: [MDPs and RL](https://vitercik.github.io/ml4algs/assets/slides/lecture9.pdf)
   : **Lecture**{: .label .label-purple }
 
 May 4
