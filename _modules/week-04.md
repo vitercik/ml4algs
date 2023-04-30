@@ -7,7 +7,7 @@ May 2
   : **Lecture**{: .label .label-purple }
 
 May 4
-: MDPs, GNNs, and integer programming
+: [MDPs, GNNs, and integer programming](https://vitercik.github.io/ml4algs/assets/slides/lecture10.pdf)
   : **Discussion**{: .label .label-red }
 : Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 
