@@ -5,13 +5,13 @@ title: Graph neural networks
 Apr 13
 : Graph neural networks (GNNs)
   : **Lecture**{: .label .label-purple }
-: [[Slides]](https://vitercik.github.io/ml4algs/assets/slides/lecture4.pdf)
+: - [Slides](https://vitercik.github.io/ml4algs/assets/slides/lecture4.pdf)
 
 Apr 18
 : GNNs for graph algorithms
   : **Discussion**{: .label .label-red }
-: *Slides:* [[link]](https://vitercik.github.io/ml4algs/assets/slides/lecture5.pdf)
-: *Reading:* Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
+: - [Slides](https://vitercik.github.io/ml4algs/assets/slides/lecture5.pdf)
+: - *Reading:* Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
 
 Apr 20
 : Survey of GNNs for combinatorial optimization
