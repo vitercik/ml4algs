@@ -5,7 +5,7 @@ title: Graph neural networks
 Apr 13
 : Graph neural networks (GNNs)
   : **Lecture**{: .label .label-purple }
-: *Slides:* [[link]](https://vitercik.github.io/ml4algs/assets/slides/lecture4.pdf)
+: [[Slides]](https://vitercik.github.io/ml4algs/assets/slides/lecture4.pdf)
 
 Apr 18
 : GNNs for graph algorithms
