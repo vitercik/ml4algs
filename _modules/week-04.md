@@ -12,6 +12,7 @@ May 4
 : Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 
 May 9
-: [RL for combinatorial optimization](https://vitercik.github.io/ml4algs/assets/slides/lecture11.pdf)
+: RL for combinatorial optimization
   : **Discussion**{: .label .label-red }
+: [[slides]](https://vitercik.github.io/ml4algs/assets/slides/lecture11.pdf)
 : Dai, Hanjun, et al. "Learning combinatorial optimization algorithms over graphs." NeurIPS'17. [[link]](https://arxiv.org/pdf/1704.01665.pdf)
