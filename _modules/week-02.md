@@ -16,5 +16,5 @@ Apr 18
 Apr 20
 : Survey of GNNs for combinatorial optimization
   : **Discussion**{: .label .label-red }
-: - *Slides:* [[link]](https://vitercik.github.io/ml4algs/assets/slides/lecture6.pdf)
+: - [Slides](https://vitercik.github.io/ml4algs/assets/slides/lecture6.pdf)
 : - *Reading:* Section 3.3 of Cappart, Quentin, et al. "Combinatorial optimization and reasoning with graph neural networks." arXiv'21 [[link]](https://arxiv.org/pdf/2102.09544.pdf)
