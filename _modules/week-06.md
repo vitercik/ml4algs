@@ -3,7 +3,8 @@ title: Statistical guarantees and online learning
 ---
 
 May 18
-: [Theoretical machine learning](https://vitercik.github.io/ml4algs/assets/slides/lecture12.pdf)
+: Theoretical machine learning
+: *Slides:* [[link]](https://vitercik.github.io/ml4algs/assets/slides/lecture12.pdf)
   : **Lecture**{: .label .label-purple }
 
 May 23
