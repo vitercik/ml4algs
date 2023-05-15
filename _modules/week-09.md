@@ -3,6 +3,6 @@ title: Final project presentations
 ---
 
 
-June 8
+June 6
 : Final project presentations
   : **Project**{: .label .label-blue }
