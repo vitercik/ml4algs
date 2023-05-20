@@ -11,5 +11,6 @@ May 25
 May 30
 : Algorithms with predictions 2
   : **Discussion**{: .label .label-red }
+: - [Slides](https://vitercik.github.io/ml4algs/assets/slides/lecture14.pdf)
 : - *Reading:* Hsu, Chen-Yu, et al. "Learning-Based Frequency Estimation Algorithms."
 ICLR'19. [[link]](https://par.nsf.gov/servlets/purl/10112257)
